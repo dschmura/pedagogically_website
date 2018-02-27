@@ -1,0 +1,19 @@
+{
+  "name": "pedagogically_website",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.2",
+    "babili": "^0.1.4",
+    "bootstrap": "^4.0.0",
+    "bourbon": "^5.0.0",
+    "jquery": "^3.3.1",
+    "rails-ujs": "^5.1.5",
+    "stimulus": "^1.0.1",
+    "turbolinks": "^5.1.1"
+  },
+  "devDependencies": {
+    "popper.js": "^1.12.9",
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.0.0"
+  }
+}
